@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Engie Challenge</title>
 </head>
 <body>
 
-<h1>By the Explosive Shells team</h1>
-<p>This is a paragraph.</p>
+<h1>Engie Challenge</h1>
+<p>By the Explosive Shells team</p>
 
 </body>
 </html>
