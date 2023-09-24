@@ -20,7 +20,7 @@ Explosive Shells offers a Python-based data analysis and visualization tool for 
 - [Feature 3]
 
 ## Who-we-are
-[Ian Olmstead](https://www.linkedin.com/in/ubermensch/)
-[Colin Sampey](https://www.linkedin.com/in/colin-sampey/)
-[Michael Van](https://www.linkedin.com/in/atmichaelvan/)
-[Benjamin Burnham](https://www.linkedin.com/in/benjamin-j-burnham/)
+[Ian Olmstead](https://www.linkedin.com/in/ubermensch/)<b>
+[Colin Sampey](https://www.linkedin.com/in/colin-sampey/)<b>
+[Michael Van](https://www.linkedin.com/in/atmichaelvan/)<b>
+[Benjamin Burnham](https://www.linkedin.com/in/benjamin-j-burnham/)<b>
