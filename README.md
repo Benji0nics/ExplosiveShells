@@ -10,7 +10,7 @@ Repository containing the masterworks of the superstar group known as "Explosive
 
 ## About
 
-The Explosive Shells team offers Python-based data analysis, visualization, and predictive modeling tools to explore and forecast the efficiency of University of Iowa Solar Cells
+The Explosive Shells team offers Python-based data analysis, visualization, and predictive modeling tools to explore and forecast the efficiency of University of Iowa Solar Panels.
 
 ## Features
 
