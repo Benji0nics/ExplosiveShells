@@ -38,6 +38,9 @@ The Explosive Shells team offers Python-based data analysis, visualization, and 
   - Evaluates the predictive models using industry-standard metrics like Mean Squared Error (MSE) and R-squared.
   - Assesses model accuracy and reliability for decision-making.
 
+## Usage
+
+-(Explanation of Usage goes here)
 
 ## Who-we-are
 [Ian Olmstead](https://www.linkedin.com/in/ubermensch/)</br>
