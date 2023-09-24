@@ -43,7 +43,7 @@ Train 90% and Test 10%
 | **Electrical Vehicle**                | **Bus Car**                            |
 |---------------------------------------|----------------------------------------|
 |                Features               |                Features                |
-| *Ridge Regression: r=78.26 score=0.27 | *Ridge Regression: r=38.03 score=0..34 |
+| *Ridge Regression: r=78.26 score=0.27 | *Ridge Regression: r=38.03 score=0.34 |
 | *Bayes Regression: r=78.31 score 0.27 | *Bayes Regression: r=38.08 score=0.34  |
 | *Random Forest: r=24.55 score=0.77    | *Random Forest: r=18.59 score=0.68     |
 |   *Decision Tree: r=48.83 score=0.55  |   *Decision Tree: r=35.43 score=0.38   |
