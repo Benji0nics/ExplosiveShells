@@ -40,7 +40,7 @@ The Explosive Shells team offers Python-based data analysis, visualization, and 
 
 ## Usage
 
--(Explanation of Usage goes here)
+- (Explanation of Usage goes here)
 
 ## Who-we-are
 [Ian Olmstead](https://www.linkedin.com/in/ubermensch/)</br>
