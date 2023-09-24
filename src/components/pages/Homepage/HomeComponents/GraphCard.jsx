@@ -5,8 +5,7 @@ import React from 'react';
 const GraphCard = (props) => {
     return (
         <div className="graphCard">
-            <h4>{props.title}</h4>
-            <a target="_blank" href="" ><img src={props.img} className="card--image"/></a>
+            <a target="_blank" href={props.link}><img src={props.img} className="card--image"/></a>
         </div>
     )
 }
