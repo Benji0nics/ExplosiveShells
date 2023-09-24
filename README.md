@@ -53,7 +53,7 @@ Train 90% and Test 10%
 | *Random Forest: r=52.55 score=0.51    | *Random Forest: r=30.31 score=0.47     |
 | *Decision Tree: r=84.47 score=0.22    | *Decision Tree: r=56.21 score=0.02     |
 
-## Who-we-are
+## Who we are
 [Ian Olmstead](https://www.linkedin.com/in/ubermensch/)</br>
 [Colin Sampey](https://www.linkedin.com/in/colin-sampey/)</br>
 [Michael Van](https://www.linkedin.com/in/atmichaelvan/)</br>
