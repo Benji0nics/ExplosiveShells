@@ -7,7 +7,7 @@ const AboutButton = () => {
       <Link to="/contact">
         <button className="contact--btn">Contact Us</button>
       </Link>
-      <Link to="/chat">
+      <Link to="http://127.0.0.1:5173/">
         <button className="chat--btn">Chat With AI</button>
       </Link>
     </div>

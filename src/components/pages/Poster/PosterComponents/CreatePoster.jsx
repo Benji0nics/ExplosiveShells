@@ -25,7 +25,7 @@ const CreatePoster = () => {
             className="poster-input"
             type="text"
             name="query"
-            placeholder="Type in movie name"
+            placeholder="Type in green energy"
             value={query}
             onChange={(e) => setQuery(e.target.value)}
             />

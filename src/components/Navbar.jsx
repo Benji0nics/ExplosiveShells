@@ -31,6 +31,12 @@ const Navbar = () => {
           <NavLink to="/search">Search</NavLink>
         </li>
         <li>
+          <NavLink to="http://127.0.0.1:5173/">ChatAI</NavLink>
+        </li>
+        <li>
+          <NavLink to="/poster">Image</NavLink>
+        </li>
+        <li>
           <NavLink to="/contact">Contact</NavLink>
         </li>
       </ul>

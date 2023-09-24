@@ -95,10 +95,10 @@ const Footer = () => {
                 <div className="sb__footer-links_div">
                     <h4>Social Media</h4>
                     <div className="socialmedia">
-                        <p><img className="socialIcon" src={fb} alt="" /></p>
-                        <p><img className="socialIcon" src={twitter} alt="" /></p>
-                        <p><img className="socialIcon" src={linkedin} alt="" /></p>
-                        <p><img className="socialIcon" src={insta} alt="" /></p>
+                        <a target="_blank" href="https://www.facebook.com/profile.php?id=61551346350954"><img className="socialIcon" src={fb} alt="" /></a>
+                        <a target="_blank" href="https://twitter.com/ExplosiveShells"><img className="socialIcon" src={twitter} alt="" /></a>
+                        <a target="_blank" href="https://www.linkedin.com/company/97197063/admin/feed/posts/" ><img className="socialIcon" src={linkedin} alt="" /></a>
+                        <a target="_blank" href="https://www.instagram.com/explosive_shells/" ><img className="socialIcon" src={insta} alt="" /></a>
                     </div>
                 </div>
             </div>
