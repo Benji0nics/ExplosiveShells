@@ -5,6 +5,7 @@ Repository containing the masterworks of the superstar group known as "Explosive
 
 - [About](#about)
 - [Features](#features)
+- [Prediction Flow Tag Table](#Prediction-flow-tag-table)
 - [Who we are](#Who-we-are)
 
 ## About
@@ -37,7 +38,8 @@ The Explosive Shells team offers Python-based data analysis, visualization, and 
   - Evaluates the predictive models using industry-standard metrics like Mean Squared Error (MSE) and R-squared.
   - Assesses model accuracy and reliability for decision-making.
 
-###Train 90% and Test 10% Prediction Flow Tag Table</br>
+## Prediction Flow Tag Table
+Train 90% and Test 10%
 | **Electrical Vehicle**                | **Bus Car**                            |
 |---------------------------------------|----------------------------------------|
 |                Features               |                Features                |
