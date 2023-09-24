@@ -4,6 +4,7 @@ Repository containing the masterworks of the superstar group known as "Explosive
 ## Table of Contents
 
 - [About](#about)
+- [How to View](#Howto)
 - [Features](#features)
 - [Prediction Flow Tag Table](#Prediction-flow-tag-table)
 - [Who we are](#Who-we-are)
@@ -11,6 +12,10 @@ Repository containing the masterworks of the superstar group known as "Explosive
 ## About
 
 The Explosive Shells team offers Python-based data analysis, visualization, and predictive modeling tools to explore and forecast the efficiency of University of Iowa Solar Panels.
+
+## How to view:
+
+Just open the Hackathon_Engie_Challenge_2023_BUSCAR.ipynb and Hackathon_Engie_Challenge_2023_Electric_Vehicle.ipynb files and take a peak!
 
 ## Features
 
